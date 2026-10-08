@@ -1,3 +1,10 @@
+/**
+ * JuegoVida.java
+ *
+ * @author Pablo Rivero Galvín [prvgal]
+ * @version 1.0
+ */
+
 package lifesim.modelo;
 
 import java.util.Random;

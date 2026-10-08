@@ -1,3 +1,10 @@
+/**
+ * PanelReticula.java
+ *
+ * @author Pablo Rivero Galvín [prvgal]
+ * @version 1.0
+ */
+
 package lifesim.vista;
 
 import lifesim.modelo.JuegoVida;

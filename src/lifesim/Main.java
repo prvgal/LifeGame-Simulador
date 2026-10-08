@@ -1,3 +1,10 @@
+/**
+ * Main.java
+ *
+ * @author Pablo Rivero Galvín [prvgal]
+ * @version 1.0
+ */
+
 package lifesim;
 
 import lifesim.vista.VentanaPrincipal;
