@@ -1,10 +1,10 @@
-# El Juego de la Vida
+# El Juego de la Vida | Simulador
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
 Simulación del autómata celular de Conway en Java Swing, con gráficas
-de población viva y de huecos en tiempo real.
+de población viva y de huecos en tiempo real. Este simulador es capaz de simular cualquier cosa que sea computable. 
 
 ## Configuraciones iniciales
 - Aleatorio
